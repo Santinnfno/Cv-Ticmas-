@@ -1,0 +1,56 @@
+h1 {
+    color: rgb(0, 0, 0);
+    height: 50px;
+    padding: 10px;
+    border-top: 5px solid black; /* en ese orden: top,right,bottom,left agujas de reloj*/
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    margin: 5px solid red;
+}
+/*
+aaaa esto es un comentario en css
+*/
+p {
+    font-family: 'Fira Sans', sans-serif;
+    color: black;
+    height: 200px;
+    width: 200px;
+}
+
+
+section {
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/chris-bumstead-1646126650.jpg);
+    font-family: 'Chivo Mono', monospace;
+    width: 250px;
+    border: 5px solid green;
+    padding: 100px;
+    margin: 20px;
+    
+}   
+
+#coso1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: violet;
+    border: 1px solid black;
+    height: 100px;
+    width: 250px;
+}
+
+.estaesmiclase {
+    color: blueviolet;
+    font-size: 25px;
+    border: 1px dotted brown;
+    height: 100px;
+    width: 250px;
+}
+
+section h1 {
+
+    color: rgb(36, 241, 9);
+    font-size: 25px;
+    border: 1px dotted brown;
+    height: 100px;
+    width: 250px;
+}
